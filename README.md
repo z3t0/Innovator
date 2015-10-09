@@ -5,7 +5,7 @@ Skills Canada Robotics Competition
 Students:
 - Rafi Khan
 - Revathi Nair
-- Lingxiu Susan Lui
+- Lingxiu Susan Liu
 
 Teacher:
 Mr.Clements is an awesome teacher
