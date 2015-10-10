@@ -1,14 +1,10 @@
-// MIT LICENSE
-// Aft Deck Component
-// By Rafi Khan
+// Part   : Aft Deck Component - 5
+// Author : Rafi Khan
+// Team   : Innovator
 
 difference(){
 cube([10.16, 19.05, 3.81]);
-/*
-translate([1.27, 1.27, 1.30]){
-	cylinder(h=2.54, d=2.2223, center=false, $fn=50);
-}
-*/
+
 // Center Through Hole
 translate([2.54, 9.525, -1]){
 	cylinder(h=5, d=2.2223, center=false, $fn=70);
@@ -54,5 +50,3 @@ module curve (a, b, c) {
         }       
     }
 }
-
-//curve(1.59, 2, 1.2);
